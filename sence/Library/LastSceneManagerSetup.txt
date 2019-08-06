@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Demo/SA_Demo.unity
+  isLoaded: 1
+  isActive: 1
